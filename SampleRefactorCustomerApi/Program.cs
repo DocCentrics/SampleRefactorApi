@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SampleRefactorCustomerApi
+namespace SampleRefactorApi
 {
     public class Program
     {
