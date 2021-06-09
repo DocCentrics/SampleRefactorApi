@@ -54,3 +54,6 @@ log.txt
 
 # App Settings
 appSettings.*.json
+
+# Database
+identity.db
